@@ -1,0 +1,6 @@
+Model: combined_projection_reconstruction_model, Date: 2019-08-15_09:39:20 
+MSE: 0.00475172 
+SSIM: 0.75078094 
+MS-SSIM: 0.83036876 
+PSNR: 23.58966255
+

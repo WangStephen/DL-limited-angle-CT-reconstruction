@@ -1,0 +1,6 @@
+Model: cnn_projection_model, Date: 2019-08-15_09:34:13 
+MSE: 0.00661715 
+SSIM: 0.78700650 
+MS-SSIM: 0.85130316 
+PSNR: 21.89626312
+

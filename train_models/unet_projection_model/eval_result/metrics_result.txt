@@ -1,0 +1,6 @@
+Model: unet_projection_model, Date: 2019-08-15_09:36:54 
+MSE: 0.00576756 
+SSIM: 0.77860057 
+MS-SSIM: 0.84754533 
+PSNR: 22.47645187
+

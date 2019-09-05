@@ -1,0 +1,6 @@
+Model: unet_reconstruction_model, Date: 2019-08-15_09:37:41 
+MSE: 0.00381547 
+SSIM: 0.81303000 
+MS-SSIM: 0.87247092 
+PSNR: 24.70790100
+

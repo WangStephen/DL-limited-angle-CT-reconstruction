@@ -1,0 +1,82 @@
+Baselines:
+########################################
+######
+pure_fdk_model:
+mse value:  0.02531038916021754
+ssim value:  0.76575553
+ms-ssim value:  0.8212296
+psnr value:  16.047247
+
+######
+fdk_nn_model:
+mse value:  0.006587779958630654
+ssim value:  0.8005871
+ms-ssim value:  0.85744363
+psnr value:  21.939232
+########################################
+
+
+Add CNN:
+########################################
+######
+cnn_projection_model:
+mse value:  0.006617153380634163
+ssim value:  0.7870065
+ms-ssim value:  0.85130364
+psnr value:  21.896263
+
+######
+cnn_reconstruction_model:
+mse value:  0.004373863898800334
+ssim value:  0.837711
+ms-ssim value:  0.8713566
+psnr value:  24.05871
+
+######
+dense_cnn_reconstruction_model:
+mse value:  0.0038618714672060115
+ssim value:  0.8377828
+ms-ssim value:  0.87500876
+psnr value:  24.647049
+########################################
+
+
+Add U-Net:
+########################################
+######
+unet_projection_model:
+mse value:  0.005767559931635419
+ssim value:  0.7786006
+ms-ssim value:  0.84754527
+psnr value:  22.476452
+
+######
+unet_reconstruction_model:
+mse value:  0.003815473366687317
+ssim value:  0.81303
+ms-ssim value:  0.8724709
+psnr value:  24.707901
+
+######
+unet_proposed_reconstruction_model:
+mse value:  0.003989142512326042
+ssim value:  0.82817405
+ms-ssim value:  0.87107015
+psnr value:  24.523157
+########################################
+
+
+Train on both Projection and Reconstruction Domains:
+########################################
+######
+combined_projection_reconstruction_model:
+mse value:  0.004751718081407163
+ssim value:  0.75078094
+ms-ssim value:  0.8303687
+psnr value:  23.589663
+
+
+########################################
+######
+further method proposed:
+best projection model => best reconstruction model => forward projection on 180 degrees of the results and then train network again with 180 degrees input

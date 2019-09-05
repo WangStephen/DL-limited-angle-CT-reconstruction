@@ -1,0 +1,6 @@
+Model: cnn_reconstruction_model, Date: 2019-08-15_09:35:11 
+MSE: 0.00437386 
+SSIM: 0.83771098 
+MS-SSIM: 0.87135661 
+PSNR: 24.05871010
+

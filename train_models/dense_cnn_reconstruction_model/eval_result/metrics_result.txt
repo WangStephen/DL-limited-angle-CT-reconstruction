@@ -1,0 +1,6 @@
+Model: dense_cnn_reconstruction_model, Date: 2019-08-15_09:36:05 
+MSE: 0.00386187 
+SSIM: 0.83778280 
+MS-SSIM: 0.87500882 
+PSNR: 24.64704895
+

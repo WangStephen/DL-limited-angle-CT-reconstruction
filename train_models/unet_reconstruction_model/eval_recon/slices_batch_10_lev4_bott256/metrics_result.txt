@@ -1,0 +1,6 @@
+Model: unet_reconstruction_model/eval_recon/slices_batch_10_lev4_bott256, Date: 2019-08-19_10:42:39 
+MSE: 0.00221781 
+SSIM: 0.86204225 
+MS-SSIM: 0.91736245 
+PSNR: 26.72124290
+
