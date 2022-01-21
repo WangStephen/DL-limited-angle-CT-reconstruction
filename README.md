@@ -4,9 +4,21 @@ Deep Learning for Limited-angle CT Reconstruction
 
 ## Reference
 
-The work is based on the model proposed by [Syben et al. (2019)](https://arxiv.org/abs/1904.13342).
-
-The configuration and code to support Syben et al.'s model are from the [repository](https://github.com/csyben/PYRO-NN).
+This work is published on EMBC by [Wang, Y. 2020](https://ieeexplore.ieee.org/document/9176040):
+````bash
+Wang, Y., Yang, T. and Huang, W., 2020, July. Limited-Angle Computed Tomography Reconstruction using Combined FDK-Based Neural Network and U-Net. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 1572-1575). IEEE.
+````
+For reference use:
+````bash
+@inproceedings{wang2020limited,
+  title={Limited-Angle Computed Tomography Reconstruction using Combined FDK-Based Neural Network and U-Net},
+  author={Wang, Yiying and Yang, Tao and Huang, Weimin},
+  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={1572--1575},
+  year={2020},
+  organization={IEEE}
+}
+````
 
 ## Instructions
 
