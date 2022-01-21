@@ -5,10 +5,13 @@ Deep Learning for Limited-angle CT Reconstruction
 ## Reference
 
 This work is published on EMBC by [Wang, Y. 2020](https://ieeexplore.ieee.org/document/9176040):
+
 ````bash
 Wang, Y., Yang, T. and Huang, W., 2020, July. Limited-Angle Computed Tomography Reconstruction using Combined FDK-Based Neural Network and U-Net. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 1572-1575). IEEE.
 ````
+
 For reference use:
+
 ````bash
 @inproceedings{wang2020limited,
   title={Limited-Angle Computed Tomography Reconstruction using Combined FDK-Based Neural Network and U-Net},
