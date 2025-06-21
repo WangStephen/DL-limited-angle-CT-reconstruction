@@ -1,7 +1,9 @@
 # Project Title
 
 Deep Learning for Limited-angle CT Reconstruction
+
 **Master Thesis for MSc Data Science and Machine Learning at UCL**
+
 **Research Assistant Funded by A\*STAR Singapore**
 
 ## Reference
